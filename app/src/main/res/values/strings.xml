@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bienvenido">Bienvenido!</string>
+    <string name="tiene_cuenta">¿Tiene Cuenta?</string>
+    <string name="registrate_aqui">REGISTRATE AQUI</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="iniciar_secion">Iniciar_Secion</string>
+    <string name="todo">TODO</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="Nombre_del_Usuario">Nombre del Usuario</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="confirmar_contrase_a">Confirmar Contraseña</string>
+    <string name="mi_banquete">Mi Banquete</string>
+
+</resources>
